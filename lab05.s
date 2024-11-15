@@ -97,8 +97,6 @@ taken:
 # TODO: Add an example with taken branch to a label which is immediately following the branch
 # ----------------------------------------------------------------------------------------
 
-
-
 exit:  
     addi      a7, zero, 10    
     ecall
